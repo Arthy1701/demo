@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\using virtual\using virtual\bin\Debug\using virtual.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\using virtual\using virtual\bin\Debug\using virtual.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\using virtual\using virtual\bin\Debug\using virtual.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\using virtual\using virtual\obj\Debug\using virtual.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\using virtual\using virtual\obj\Debug\using virtual.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\using virtual\using virtual\obj\Debug\using virtual.csprojResolveAssemblyReference.cache
