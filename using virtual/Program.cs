@@ -10,6 +10,7 @@ namespace using_virtual
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("demo");
             car c1 = new car();
             c1.Drive();
             
